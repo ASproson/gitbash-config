@@ -4,7 +4,7 @@ When you install GitBash it can sometimes pollute the terminal with random syste
 
 > C:\Program Files\Git\etc\profile.d
 
-This removes any and all of the system information from the terminal, changes the username reference to green and any directories to purple (I think this looks nicer, but feel to change the colors (lines 14&16, change the value of 32m to any other valid number for a different color choice)
+This removes any and all of the system information from the terminal, changes the username reference to green and any directories to purple (I think this looks nicer, but feel to change the colors (lines 14&16, change the value of 32m to any other valid number for a different color choice))
 
 Also note line 15 specifically:
 
